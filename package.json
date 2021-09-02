@@ -1,6 +1,6 @@
 {
   "name": "discord-perms-array",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Package to transform discord permissions bitfield into array of named permissions",
   "main": "index.js",
   "repository": "https://github.com/angrymouse/discord-perms-array",
