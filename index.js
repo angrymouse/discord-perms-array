@@ -1,4 +1,5 @@
 module.exports = (bitfield) => {
+	bitfield = BigInt(bitfield);
 	let perms = {
 		CREATE_INSTANT_INVITE: 0x0000000001n,
 		KICK_MEMBERS: 0x0000000002n,
